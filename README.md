@@ -50,8 +50,9 @@ If you prefer getting the parts by yourself, you can order the PCB from [PCBWay]
 
 * [QMK](https://github.com/qmk/qmk_firmware)
 * [Vial](https://github.com/beekeeb/vial-qmk-zerosprey42) (based on QMK)
+* [ZMK](https://github.com/tubbytwins/zmk-config-zerosprey42) by [tubbytwins](https://github.com/tubbytwins)
 
-For advanced users, other firmwares including KMK (Python/CircuitPython), PRK (Ruby), keyberon (Rust), ZMK should be possible.
+For advanced users, other firmwares including KMK (Python/CircuitPython), PRK (Ruby), keyberon (Rust) should be possible.
 
 Precompiled firmware can be found at https://docs.beekeeb.com/zerosprey42-keyboard.
 
